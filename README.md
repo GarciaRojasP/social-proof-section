@@ -21,12 +21,12 @@ Esto es una solución de la [Social proof section challenge on Frontend Mentor](
 
 ### Screenshot
 
-![]()
+![](https://github.com/GarciaRojasP/social-proof-section/assets/119550417/0fe40200-7678-44eb-adc7-fe801a631a52)
 
 ### Links
 
-- Ver código: [Social proof section]()
-- Ver demo: [Social proof section]()
+- Ver código: [Social proof section](https://github.com/GarciaRojasP/social-proof-section)
+- Ver demo: [Social proof section](https://social-proof-section-omega-dusky.vercel.app/)
 
 ## Mi proceso
 
